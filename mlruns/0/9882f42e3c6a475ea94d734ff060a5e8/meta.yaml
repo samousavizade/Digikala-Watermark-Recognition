@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ahura/PycharmProjects/DigiKalaCup/q2/mlruns/0/9882f42e3c6a475ea94d734ff060a5e8/artifacts
+end_time: 1646670580814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 9882f42e3c6a475ea94d734ff060a5e8
+run_uuid: 9882f42e3c6a475ea94d734ff060a5e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1646668299066
+status: 3
+tags: []
+user_id: ahura
