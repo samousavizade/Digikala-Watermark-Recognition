@@ -7,6 +7,12 @@
 
 ---
 
+# Dataset
+
+Dataset is available through [this](https://static.quera.org/dl/dk-dataset.zip) link.
+
+---
+
 # Project Definition
 
 In the **Digikala** sellers panel, when sellers add their products to the website for
